@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * drying-oven service
+ * product service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::drying-oven.drying-oven');
+module.exports = createCoreService('api::product.product');
