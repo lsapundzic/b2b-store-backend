@@ -1,10 +1,10 @@
 {
   "kind": "singleType",
-  "collectionName": "contacts",
+  "collectionName": "deals",
   "info": {
-    "singularName": "contact",
-    "pluralName": "contacts",
-    "displayName": "Contact",
+    "singularName": "deal",
+    "pluralName": "deals",
+    "displayName": "Deal",
     "description": ""
   },
   "options": {
