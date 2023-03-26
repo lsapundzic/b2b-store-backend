@@ -4,7 +4,8 @@
   "info": {
     "singularName": "distributorship",
     "pluralName": "distributorships",
-    "displayName": "Distributorship"
+    "displayName": "Distributorship",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "Title": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Body": {
       "type": "richtext",
