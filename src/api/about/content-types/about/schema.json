@@ -15,10 +15,10 @@
     "title": {
       "type": "string"
     },
-    "paragraph1": {
+    "part1": {
       "type": "richtext"
     },
-    "paragraph2": {
+    "part2": {
       "type": "richtext"
     },
     "picture1": {
